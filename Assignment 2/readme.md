@@ -1,13 +1,14 @@
 **Summary of Presentation :**
 In this presentation I have described some important features and key points related to history of HCI.
 
-| **SLIDE 1 : TITLE** |
-| **SLIDE 2 : History of HCI** |
-| **SLIDE 3 : Batch Processing** |
-| **SLIDE 4 : Mid 1960’s** |
-| **SLIDE 5 : Paradigm Shifter: Ivan Sutherland** |
-| **SLIDE 6 : Paradigm Shifter: Douglas Engelbart** |
-| **SLIDE 7 : Paradigm Shifter: Alan Kay** |
+| SLIDES :  | TOPICS |
+| **SLIDE 1 : | TITLE** |
+| **SLIDE 2 : | History of HCI** |
+| **SLIDE 3 : | Batch Processing** |
+| **SLIDE 4 : | Mid 1960’s** |
+| **SLIDE 5 : | Paradigm Shifter: Ivan Sutherland** |
+| **SLIDE 6 : | Paradigm Shifter: Douglas Engelbart** |
+| **SLIDE 7 : | Paradigm Shifter: Alan Kay** |
 | **SLIDE 8 : WIMP** |
 | **SLIDE 9 : PCs with GUIs** |
 | **SLIDE 10 : Xerox Star - ‘81** |
