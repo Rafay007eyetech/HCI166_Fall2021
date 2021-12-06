@@ -3,6 +3,7 @@ In this presentation I have described some important features and key points rel
 
 
 | SLIDES :    | Table of Content                      |
+|------------ |:-------------------------------------:|
 | **SLIDE 1 : | TITLE**                               |
 | **SLIDE 2 : | History of HCI**                      |
 | **SLIDE 3 : | Batch Processing**                    |
