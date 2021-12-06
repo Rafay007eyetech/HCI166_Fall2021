@@ -4,7 +4,7 @@
 | 00000       | Muhammad Hibar        | Group Member |
 | 00000       | Hamza Raza            | Group Member |
 
-**Core Problem :  A Hybrid Classroom System for underprivilege Schools
+**Core Problem :  A Hybrid Classroom System for underprivilege Schools**
 
 **IDEA 1 : Mystery Quotation**
 This activity lets you see how well your students can apply their understanding of an issue or theoretical position. After you’ve explored a topic, show them a quotation and their task is to figure out the point of view behind the quotation and explain it. Make sure remote students have equal opportunity to take part.
