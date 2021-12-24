@@ -1,1 +1,1 @@
-Persona : Teacher
+Persona 6 : Teacher
