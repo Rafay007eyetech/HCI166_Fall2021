@@ -1,1 +1,1 @@
-Persona 3 : senior position (Admin)
+Persona 3 : Junior position (Admin)
